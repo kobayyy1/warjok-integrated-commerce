@@ -722,7 +722,7 @@
                                 <p class="text-sm text-stone-500">Content Creator</p>
                             </div>
                         </div>
-                        <div class="text-amber-500 mb-3">â˜…â˜…â˜…â˜…â˜…</div>
+                        <div class="text-amber-500 mb-3">★★★★★</div>
                         <p class="text-stone-600 italic">
                             "The vibes here are immaculate! Matcha latte-nya creamy, aesthetic banget buat foto. Plus
                             tempatnya cozy, perfect untuk ngerjain konten."
@@ -739,7 +739,7 @@
                                 <p class="text-sm text-stone-500">Coffee Enthusiast</p>
                             </div>
                         </div>
-                        <div class="text-amber-500 mb-3">â˜…â˜…â˜…â˜…â˜…</div>
+                        <div class="text-amber-500 mb-3">★★★★★</div>
                         <p class="text-stone-600 italic">
                             "Flat white-nya consistently good! Biji kopinya berkualitas, brewing method juga on point.
                             Tempatnya chill buat hang out atau work from café."
@@ -756,7 +756,7 @@
                                 <p class="text-sm text-stone-500">Freelance Designer</p>
                             </div>
                         </div>
-                        <div class="text-amber-500 mb-3">â˜…â˜…â˜…â˜…â˜…</div>
+                        <div class="text-amber-500 mb-3">★★★★★</div>
                         <p class="text-stone-600 italic">
                             "Love the minimalist interior! Taro smoothie bowl-nya enak, cocok buat brunch. WiFi kenceng,
                             musik playlist-nya juga curated banget."
@@ -773,7 +773,7 @@
                                 <p class="text-sm text-stone-500">Startup Founder</p>
                             </div>
                         </div>
-                        <div class="text-amber-500 mb-3">â˜…â˜…â˜…â˜…â˜…</div>
+                        <div class="text-amber-500 mb-3">★★★★★</div>
                         <p class="text-stone-600 italic">
                             "My go-to spot untuk client meetings! Ambience-nya professional tapi tetep casual. Signature
                             blend espresso-nya strong, bikin produktif!"
@@ -790,7 +790,7 @@
                                 <p class="text-sm text-stone-500">Social Media Manager</p>
                             </div>
                         </div>
-                        <div class="text-amber-500 mb-3">â˜…â˜…â˜…â˜…â˜…</div>
+                        <div class="text-amber-500 mb-3">★★★★★</div>
                         <p class="text-stone-600 italic">
                             "Instagrammable corner everywhere! Brown sugar boba milk tea-nya addictive. Staffnya friendly,
                             vibe-nya homey. Definitely coming back!"
@@ -807,7 +807,7 @@
                                 <p class="text-sm text-stone-500">Digital Marketer</p>
                             </div>
                         </div>
-                        <div class="text-amber-500 mb-3">â˜…â˜…â˜…â˜…â˜…</div>
+                        <div class="text-amber-500 mb-3">★★★★★</div>
                         <p class="text-stone-600 italic">
                             "Perfect escape dari rutinitas! Iced lemon tea-nya refreshing, croffle-nya crispy. Seating
                             area-nya spacious, bisa lama-lama di sini."
