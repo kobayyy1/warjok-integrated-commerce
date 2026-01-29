@@ -27,6 +27,8 @@ Route::get('/home/ropang', [ropangController::class, 'ropang'])->name('home.ropa
 // ========================================
 // AUTHENTICATION ROUTES
 // ========================================
+
+// Promos Management
 Route::get('/promo', function () {
     return view('promo');
 })->name('promo.index');
@@ -52,7 +54,7 @@ Route::post('/logout', [userAuthController::class, 'logout'])->name('logout')->m
 // ADMIN ROUTES (Harus login)
 // ========================================
 Route::middleware('auth')->prefix('admin')->name('admin.')->group(function () {
-    
+
     // Dashboard
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
@@ -64,7 +66,7 @@ Route::middleware('auth')->prefix('admin')->name('admin.')->group(function () {
     Route::get('/Product/{product}/edit', [ProductController::class, 'edit'])->name('products.edit');
     Route::put('/Product/{product}', [ProductController::class, 'update'])->name('products.update');
     Route::delete('/Product/{product}', [ProductController::class, 'destroy'])->name('products.destroy');
-    
+
     // Banners Management
     Route::get('/banners', [AdminBannerController::class, 'index'])->name('banners.index');
     Route::get('/banners/create', [AdminBannerController::class, 'create'])->name('banners.create');
@@ -75,8 +77,6 @@ Route::middleware('auth')->prefix('admin')->name('admin.')->group(function () {
     Route::delete('/banners/{banner}', [AdminBannerController::class, 'destroy'])->name('banners.destroy');
     Route::patch('/banners/{banner}/toggle-status', [AdminBannerController::class, 'toggleStatus'])->name('banners.toggle-status');
 
-    // Promos Management
-    // Route::resource('promos', PromoController::class);
 
     // Hero Videos Management
     Route::resource('hero-videos', HeroVideoController::class);
