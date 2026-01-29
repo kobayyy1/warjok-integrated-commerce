@@ -1,0 +1,30 @@
+[33mc5e8469[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m608b684[m HEAD@{1}: commit: Final commit before migration
+[33mc5e8469[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: Branch: renamed refs/heads/main to refs/heads/main
+[33mc5e8469[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{4}: commit: make-Admin-panel
+[33mf0d4e15[m HEAD@{5}: commit: Track large files using Git LFS
+[33m204d3aa[m HEAD@{6}: commit: Track large files using Git LFS
+[33m5c6358c[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33m5c6358c[m HEAD@{9}: commit: initial commit all files
+[33m90bf6df[m HEAD@{10}: commit: First Commit
+[33mf0d404d[m HEAD@{11}: Branch: renamed refs/heads/UI/Improvement to refs/heads/main
+[33mf0d404d[m HEAD@{13}: checkout: moving from main to UI/Improvement
+[33m7b72c44[m HEAD@{14}: reset: moving to HEAD
+[33m7b72c44[m HEAD@{15}: checkout: moving from UI/Improvement to main
+[33mf0d404d[m HEAD@{16}: commit: Improve format in heroSection
+[33mc2bedd3[m HEAD@{17}: checkout: moving from main to UI/Improvement
+[33m7b72c44[m HEAD@{18}: commit: Add new format in Hero
+[33mf3768d1[m HEAD@{19}: commit: New Layouts Ropang
+[33m4f84a76[m HEAD@{20}: checkout: moving from UI/Improvement to main
+[33mc2bedd3[m HEAD@{21}: commit: Feat: Update UI MieAyamlah
+[33m4f84a76[m HEAD@{22}: checkout: moving from main to UI/Improvement
+[33m4f84a76[m HEAD@{23}: commit: Tampilan baru
+[33m9b6b07b[m[33m ([m[1;32mupdate/feat[m[33m, [m[1;32mnew/page[m[33m)[m HEAD@{24}: checkout: moving from new/page to main
+[33m9b6b07b[m[33m ([m[1;32mupdate/feat[m[33m, [m[1;32mnew/page[m[33m)[m HEAD@{25}: checkout: moving from main to new/page
+[33m9b6b07b[m[33m ([m[1;32mupdate/feat[m[33m, [m[1;32mnew/page[m[33m)[m HEAD@{26}: checkout: moving from new/page to main
+[33m9b6b07b[m[33m ([m[1;32mupdate/feat[m[33m, [m[1;32mnew/page[m[33m)[m HEAD@{27}: checkout: moving from update/feat to new/page
+[33m9b6b07b[m[33m ([m[1;32mupdate/feat[m[33m, [m[1;32mnew/page[m[33m)[m HEAD@{28}: checkout: moving from main to update/feat
+[33m9b6b07b[m[33m ([m[1;32mupdate/feat[m[33m, [m[1;32mnew/page[m[33m)[m HEAD@{29}: commit (merge): resolve merge conflict in README.md
+[33m32215be[m HEAD@{30}: commit: upload project kelompok 4
+[33m8539885[m HEAD@{31}: Branch: renamed refs/heads/main to refs/heads/main
+[33m8539885[m HEAD@{33}: commit (initial): bayu ady nugroho
